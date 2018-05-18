@@ -4,8 +4,7 @@ This example creates a network and a sub-network in two projects then joins the 
 
 **Figure 1.** *diagram of Network Peering*
 
-![architecture diagram](https://cloud.google.com/vpc/images/peering/network-peering-03.svg)
-Image from https://cloud.google.com/vpc/images/peering/network-peering-03.svg
+![architecture diagram](https://github.com/kickin6/terraform-google-network-peering-full/blob/master/examples/net-peering/terraform-google-network-peering-full-example.png)
 
 ## References
 https://cloud.google.com/sdk/docs/authorizing
