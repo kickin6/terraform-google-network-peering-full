@@ -34,7 +34,7 @@ terraform apply
 In the GCP Console, for each project, verify VPC network -> VPC network peering has a peering connection named peer1 and is connected.
 
 ## Cleanup
-Remove all resourced created by terraform:
+Remove all resources created by terraform:
 ```
 terraform destroy
 ```
